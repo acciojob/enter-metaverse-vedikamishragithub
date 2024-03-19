@@ -3,7 +3,8 @@ enterBtn.addEventListener("click",()=>{
 	
 
 const element = document.getElementById("status");
-element.innerHTML="<h1>Entered Metaverse</h1>";
+element.innerHTML = "<h1>Entered Metaverse</h1>";
+	
 
 	
 })
